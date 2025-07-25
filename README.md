@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NurmuhammadAshuraliyev</h1>
 <h3 align="center">A passionate full-stack developer from Uzbekistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NurmuhammadAshuraliyev" alt="NurmuhammadAshuraliyev" /></a> </p>
+<p align="left"> <a href="https://github.com/NurmuhammadAshuraliyev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NurmuhammadAshuraliyev" alt="NurmuhammadAshuraliyev" /></a> </p>
 
 - 🔭 I’m currently working on **Profile creation**
 
