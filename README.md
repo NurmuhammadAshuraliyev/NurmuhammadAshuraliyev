@@ -2,7 +2,9 @@
 <h3 align="center">A passionate full-stack developer from Uzbekistan</h3>
 
 <p align="left"> <a href="https://github.com/NurmuhammadAshuraliyev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NurmuhammadAshuraliyev" alt="NurmuhammadAshuraliyev" /></a> </p>
+
 [![wakatime](https://wakatime.com/badge/user/b10832dc-c691-4808-bb6c-96a2d5c8d60f.svg)](https://wakatime.com/@b10832dc-c691-4808-bb6c-96a2d5c8d60f)
+
 - 🔭 I’m currently working on **Profile creation**
 
 - 🌱 I’m currently learning **I’m currently learning Node.js.**
