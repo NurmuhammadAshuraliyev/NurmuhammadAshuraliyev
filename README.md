@@ -31,4 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurmuhammad-12-05&show_icons=true&locale=en&layout=compact" alt="nurmuhammad-12-05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurmuhammad-12-05&show_icons=true&locale=en" alt="nurmuhammad-12-05" /></p>
+
