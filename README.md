@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NurmuhammadAshuraliyev</h1>
 <h3 align="center">A passionate full-stack developer from Uzbekistan</h3>
 
-<p align="left"> <a href="https://github.com/NurmuhammadAshuraliyev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NurmuhammadAshuraliyev" alt="NurmuhammadAshuraliyev" /></a> </p>
+<p align="left"> <a href="https://github.com/NurmuhammadAshuraliyev/github-profile-trophy"></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NurmuhammadAshuraliyev&label=Profile%20views&color=0e75b6&style=flat" alt="NurmuhammadAshuraliyev" />&ThickSpace;<a href="https://wakatime.com/@b10832dc-c691-4808-bb6c-96a2d5c8d60f"><img src="https://wakatime.com/badge/user/b10832dc-c691-4808-bb6c-96a2d5c8d60f.svg" alt="Total time coded since June 1 2024" /></a> </p>
 
