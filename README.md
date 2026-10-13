@@ -52,8 +52,7 @@
   <!-- <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a> -->
   <a href="mailto:ashuraliyevnurmuhammad16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <!-- <a href="https://nurmuhammad.duckdns.org"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Profile views"/></a> -->
-  <a href="https://nurmuhammad.duckdns.org"><img src="https://nurmuhammad.duckdns.org/logo.svg" width="28" height="28" align="center" alt="Profile views"/></a>
-
+  <a href="https://nurmuhammad.duckdns.org"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBvbHlnb24gcG9pbnRzPSIxMiwyIDIxLDcgMjEsMTcgMTIsMjIgMywxNyAzLDciIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Y1QjA2NCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHRleHQgeD0iNyIgeT0iMTUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiNGRkZGRkYiPiZndDs8L3RleHQ%2BPHRleHQgeD0iMTEiIHk9IjE1IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjRjVCMDY0Ij5OPC90ZXh0Pjwvc3ZnPg%3D%3D" alt="Portfolio"/></a>
 </p>
 
 ---
