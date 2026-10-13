@@ -51,7 +51,7 @@
   <a href="https://t.me/@N_A_developer"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <!-- <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a> -->
   <a href="mailto:ashuraliyevnurmuhammad16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://nurmuhammad.duckdns.org"><img src="https://nurmuhammad.duckdns.org/logo.svg" alt="Profile views"/></a>
+  <a href="https://nurmuhammad.duckdns.org"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Profile views"/></a>
 </p>
 
 ---
